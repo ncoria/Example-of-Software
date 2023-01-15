@@ -1,2 +1,2 @@
 # SASE-2023-Application
-An example of code I have created
+This program is one that I created over the summer during my research experience.
