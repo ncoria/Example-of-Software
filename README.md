@@ -1,2 +1,2 @@
 # Software Example - _Random Kaczmarz with Time Varying Noise Exploration_
-This program is one that I created over the summer during my research experience.
+The software provides the setup for several randomized numerical experiments which show how different methods of processing a noisy input into an iterative method affect the accuracy of the solution within a number of iterations. On running the software, plots are generated which demonstrate this relationship. My role in writing this software was implementing the code that is used throughout, coming up with the experiments, generating the plots that are shown, and summarizing what my research partner and I thought of the results of the experiments at the end.
